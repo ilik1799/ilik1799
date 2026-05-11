@@ -1,13 +1,14 @@
-**English** | [Русский](./README.ru.md)
+[English](./README.md) | **Русский**
 
-# Hi, I'm Ilia 👋
+# Привет, я Илья 👋
 
-Security automation engineer based in Saint Petersburg, Russia.
-I write Python and PowerShell tools that solve real problems for
-InfoSec teams: audit user permissions, sync identity data between
-systems, export authentication logs from network access controllers.
+Инженер по автоматизации информационной безопасности, Санкт-Петербург.
+Пишу инструменты на Python и PowerShell, которые решают реальные
+задачи команд ИБ: аудит прав доступа, синхронизация учётных данных
+между системами, выгрузка журналов аутентификации с сетевого
+оборудования.
 
-### Tech I work with
+### Технологии
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
@@ -19,31 +20,34 @@ systems, export authentication logs from network access controllers.
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-Also: SOC analysis on MaxPatrol SIEM, Fernet, PyInstaller, keyring,
+Также: анализ инцидентов в MaxPatrol SIEM, Fernet, PyInstaller, keyring,
 Jira REST API, RADIUS / Cisco ISE Data Connect (TCPS).
 
-### Featured projects
+### Избранные проекты
 
 🔐 **[cisco-ise-vpn-exporter](https://github.com/ilik1799/cisco-ise-vpn-exporter)** —
-Cisco ISE VPN session exporter via Oracle Data Connect. Encrypted
-config (Fernet) bundled into a standalone `.exe` for SOC analysts.
+выгрузка журналов VPN-сессий из Cisco ISE через Oracle Data Connect.
+Зашифрованный конфиг (Fernet), упакован в standalone `.exe` для
+аналитиков SOC.
 
 🔄 **[ad-hr-sync-checker](https://github.com/ilik1799/ad-hr-sync-checker)** —
-Quarterly Active Directory ↔ HR registry consistency check. Auto-creates
-Jira issues, sends HTML reports by email, has a dry-run mode.
+квартальная сверка Active Directory с кадровым реестром.
+Автоматически создаёт задачи в Jira, рассылает HTML-отчёты по почте,
+поддерживает режим dry-run.
 
 📊 **[exchange-permissions-audit](https://github.com/ilik1799/exchange-permissions-audit)** —
-Microsoft Exchange delegated permissions audit (Full Access /
-Send-As / Send on Behalf). Parallelized PowerShell jobs over PSRemoting.
+аудит делегированных прав в Microsoft Exchange (Full Access /
+Send-As / Send on Behalf). Параллельные PowerShell-задачи через
+PSRemoting.
 
 📋 **[tessa-permissions-export](https://github.com/ilik1799/tessa-permissions-export)** —
-User permissions export from TESSA ECM (PostgreSQL). Two-pass lookup,
-parameterized SQL, HTML report.
+выгрузка прав пользователей из СЭД TESSA (PostgreSQL).
+Двухпроходный поиск, параметризованный SQL, HTML-отчёт.
 
-> The four pinned repositories are anonymized samples of automation
-> tools I built for an InfoSec team.
+> Четыре закреплённых репозитория — обезличенные сэмплы инструментов
+> автоматизации, разработанных для команды ИБ.
 
-### Currently
+### Сейчас
 
-Looking for security engineering / security automation roles.
-Reach me on Telegram: [@ilik1799](https://t.me/ilik1799)
+Ищу позиции в области security engineering / security automation.
+Связаться можно в Telegram: [@ilik1799](https://t.me/ilik1799)
