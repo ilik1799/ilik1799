@@ -15,7 +15,6 @@
 ![Exchange](https://img.shields.io/badge/-Exchange-0078D4?logo=microsoftexchange&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 
 Также: анализ инцидентов в MaxPatrol SIEM, Fernet, PyInstaller, keyring,
 Jira REST API, RADIUS / Cisco ISE Data Connect (TCPS).
