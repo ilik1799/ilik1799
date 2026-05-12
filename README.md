@@ -13,11 +13,9 @@
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?logo=microsoft&logoColor=white)
 ![Cisco ISE](https://img.shields.io/badge/-Cisco%20ISE-1BA0D7?logo=cisco&logoColor=white)
 ![Exchange](https://img.shields.io/badge/-Exchange-0078D4?logo=microsoftexchange&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 
-Также: анализ инцидентов в MaxPatrol SIEM, Fernet, PyInstaller, keyring,
-Jira REST API, RADIUS / Cisco ISE Data Connect (TCPS).
+Также: анализ инцидентов в MaxPatrol SIEM, PostgreSQL, Oracle, Fernet,
+PyInstaller, keyring, Jira REST API, RADIUS / Cisco ISE Data Connect (TCPS).
 
 ### Избранные проекты
 
