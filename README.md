@@ -19,18 +19,19 @@ PyInstaller, keyring, Jira REST API, RADIUS / Cisco ISE Data Connect (TCPS).
 
 ### Избранные проекты
 
-🔐 **[cisco-ise-vpn-exporter](https://github.com/ilik1799/cisco-ise-vpn-exporter)** — выгрузка журналов VPN-сессий из Cisco ISE через Oracle Data Connect. Зашифрованный конфиг (Fernet), упакован в standalone `.exe` для аналитиков SOC.
+🔄 **[ad-hr-sync-checker](https://github.com/ilik1799/ad-hr-sync-checker)** — еженедельная автоматическая сверка привилегированных учётных записей в Active Directory с реестром согласований: пять типов расхождений, включая истёкшие сроки и несогласованные права. Заводит задачу в Jira только при находках, режим dry-run.
 
-🔄 **[ad-hr-sync-checker](https://github.com/ilik1799/ad-hr-sync-checker)** — квартальная сверка Active Directory с кадровым реестром. Автоматически создаёт задачи в Jira, рассылает HTML-отчёты по почте, поддерживает режим dry-run.
-
-📧 **[exchange-permissions-audit](https://github.com/ilik1799/exchange-permissions-audit)** — аудит делегированных прав в Microsoft Exchange (Full Access / Send-As / Send on Behalf). Параллельные PowerShell-задачи через `Start-Job`.
+📧 **[exchange-permissions-audit](https://github.com/ilik1799/exchange-permissions-audit)** — аудит делегированных прав в Microsoft Exchange (Full Access / Send-As / Send on Behalf) с учётом вложенных групп: 3390 ящиков за 9 минут 36 секунд вместо часа с лишним.
 
 📄 **[tessa-permissions-export](https://github.com/ilik1799/tessa-permissions-export)** — выгрузка прав пользователей из ECM TESSA (PostgreSQL). Двухпроходный поиск, параметризованный SQL, HTML-отчёт.
+
+🔐 **[cisco-ise-vpn-exporter](https://github.com/ilik1799/cisco-ise-vpn-exporter)** — выгрузка журналов VPN-сессий из Cisco ISE через Oracle Data Connect. Зашифрованный конфиг (Fernet), упакован в standalone `.exe` для аналитиков SOC.
 
 > Четыре закреплённых репозитория — обезличенные примеры инструментов
 > автоматизации, разработанных для команды ИБ.
 
 ### Сейчас
 
-Ищу позиции в области Security Engineering / Security Automation.
+Ищу позиции в области Security Engineering / Security Automation, с интересом
+к управлению доступом (IAM/IGA).
 Связаться можно в Telegram: [@ilik1799](https://t.me/ilik1799)
